@@ -1,5 +1,5 @@
 # Automatic_Ionogram_Detection_with_YOLOv3
-lonosphere frequency map code
+Ionogram detection code
 
 See the results in  "Automatic Trace Recognition of Ionogram with YOLOv3" 
 
